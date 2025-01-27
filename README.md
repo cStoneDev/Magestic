@@ -1,0 +1,2 @@
+# Magestic
+Magestic web site
