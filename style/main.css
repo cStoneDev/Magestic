@@ -53,6 +53,9 @@ h2 {
     ),
     url("../img/hero-bg.webp") center/cover;
 }
+.hero img {
+    width: 200px;
+}
 
 .hero .btn {
   font-size: 1.2rem;
@@ -197,6 +200,10 @@ h2 {
     font-size: 2.2rem;
   }
 
+  .hero img {
+    width: 180px;
+  }
+
   .navbar-nav {
     padding: 1rem 0;
   }
@@ -214,6 +221,10 @@ h2 {
   .hero {
     min-height: 50vh;
     padding: 1.5rem 0;
+  }
+
+  .hero img {
+    width: 150px;
   }
 
   h1 {
@@ -262,6 +273,10 @@ h2 {
   /* Optimización para móviles pequeños */
   .hero h1 {
     font-size: 1.6rem;
+  }
+
+  .hero img {
+    width: 120px;
   }
 
   .hero .btn {
